@@ -36,4 +36,4 @@ melewati salah satu batas, sehingga jauh lebih stabil selama suhu berada di zona
 
 4. Modifikasi program agar menggunakan dua ambang batas (histerisis), misalnya aktuator menyala pada suhu di atas 30°C dan baru mati pada suhu di bawah **28°C**, serta berikan penjelasannya!
 Jawaban:
-<a href="[https://github.com](https://github.com/justdotzy69/H1H024036-KHOIRUL_ROSYID_GUNAWAN-PRAKTIKUM-INTERNET_OF_THINGS/tree/main/Pertemuan%201/Percobaan%201A/jawaban1)">Jawabannya</a>
+<a href="https://github.com](https://github.com/justdotzy69/H1H024036-KHOIRUL_ROSYID_GUNAWAN-PRAKTIKUM-INTERNET_OF_THINGS/tree/main/Pertemuan%201/Percobaan%201A/jawaban1">Jawabannya</a>
