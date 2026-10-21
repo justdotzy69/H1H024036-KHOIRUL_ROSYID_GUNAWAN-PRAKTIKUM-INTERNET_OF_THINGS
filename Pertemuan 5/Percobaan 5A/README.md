@@ -12,6 +12,7 @@ NIM : H1H024036
 Jawaban:
 
 
+<img width="422" height="1513" alt="modul 5  drawio" src="https://github.com/user-attachments/assets/3659decb-6e42-4a24-a6bb-c865366e7a5e" />
 
 
 
